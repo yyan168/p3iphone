@@ -24,7 +24,7 @@ function setup() {
 
 let ele;
 function playBgAudio() {
-  ele = createAudio('assets/iphone4.mp3');
+  ele = createAudio(' https://yyan168.github.io/p3iphone/assets/iphone4.mp3');
   ele.loop()
 }
 
